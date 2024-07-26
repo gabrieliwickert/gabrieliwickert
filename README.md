@@ -1,4 +1,8 @@
 ## Hi there 👋
+my name is gabrieliwickert 
+_I'm studying at alura
+_I'm developing in the JavaScript language
+_I use this space to organize and share my projects
 
 <!--
 **gabrieliwickert/gabrieliwickert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
